@@ -1,0 +1,16 @@
+{
+  "feeds": [
+    {
+      "name": "OpenPhish Community Feed",
+      "url": "https://openphish.com/feed.txt",
+      "format": "text"
+    },
+    {
+      "name": "URLhaus Recent URLs",
+      "url": "https://urlhaus.abuse.ch/downloads/csv_recent/",
+      "format": "auto"
+    }
+  ],
+  "timeout_seconds": 15,
+  "max_bytes_per_feed": 5000000
+}
